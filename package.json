@@ -33,7 +33,7 @@
   "dependencies": {
     "async-cache": "^1.1.0",
     "consola": "^2.12.1",
-    "feed": "siswo-syntaxq/feed#features/custom_namespaces_and_elements"
+    "feed": "siswo-syntaxq/feed#custom_elements"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
